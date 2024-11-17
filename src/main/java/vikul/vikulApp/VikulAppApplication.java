@@ -10,6 +10,7 @@ public class VikulAppApplication {
 
 		System.out.println("Insdide Mian!!");
 		SpringApplication.run(VikulAppApplication.class, args);
+		System.out.println("Adding extra line ");
 	}
 
 }
